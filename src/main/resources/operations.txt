@@ -1,0 +1,6 @@
+{"sumOfOperations":211,"beginningTimestamp":1554574588611,"endTimestamp":1554574592613}
+{"sumOfOperations":212,"beginningTimestamp":1554574598615,"endTimestamp":1554574602617}
+{"sumOfOperations":223,"beginningTimestamp":1554574600616,"endTimestamp":1554574604617}
+{"sumOfOperations":235,"beginningTimestamp":1554574622623,"endTimestamp":1554574626624}
+{"sumOfOperations":227,"beginningTimestamp":1554574624624,"endTimestamp":1554574628625}
+{"sumOfOperations":212,"beginningTimestamp":1554574628625,"endTimestamp":1554574632626}
